@@ -9,6 +9,10 @@
   "Reset" : "Reiniciar",
   "Resume" : "Continuar",
 
+  "available" : "Disponible",
+  "Press new key for:" : "Pulsa nueva tecla:",
+  "Key already in use by:" : "Tecla ya usada en:",
+
   "Graphics": "Gráficos",
   "Sound": "Sonido",
 
